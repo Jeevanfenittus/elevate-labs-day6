@@ -17,8 +17,8 @@ End point URL : http://elevate-labs-day6.s3-website-us-east-1.amazonaws.com
 
 Author
 
-#Name: [Jeevan Fenittus S]
-##Internship Task: Task 6 – Host and Deploy a Web Application on the Cloud
-###Platform: AWS S3
-####Date: [28/10/2025]
+# Name: [Jeevan Fenittus S]
+## Internship Task: Task 6 – Host and Deploy a Web Application on the Cloud
+### Platform: AWS S3
+#### Date: [28/10/2025]
 
